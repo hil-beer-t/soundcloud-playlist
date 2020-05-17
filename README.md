@@ -1,4 +1,4 @@
-# SoundCloud Playlist
+# [SoundCloud Playlist](https://hil-beer-t.github.io/soundcloud-playlist/)
 
  A Web Playlist using SoundCloud API. 
 
